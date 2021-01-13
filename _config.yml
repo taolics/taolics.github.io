@@ -9,7 +9,7 @@
 # --------------------------
 title: Tour                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Enjoy your life!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -29,7 +29,7 @@ social:
   email: taolics@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
