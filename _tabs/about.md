@@ -10,4 +10,5 @@ order: 4
 # MIT License
 ---
 
-* SCU 在校生（大三）
+
+> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
