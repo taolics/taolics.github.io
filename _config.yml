@@ -86,7 +86,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: 'https://cdn.com'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://raw.githubusercontent.com/taolics/taolics.github.io/gh-pages/assets/img/favicons/android-icon-96x96.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
