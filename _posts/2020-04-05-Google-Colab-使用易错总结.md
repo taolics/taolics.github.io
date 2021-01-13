@@ -1,13 +1,12 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
+title: Google Colab 使用易错总结
+author: Tour
+date: 2020-04-05 10:44:00 +0800
 categories: [Blogging, Demo]
 tags: [Google]
 math: true
 mermaid: true
 pin: true
-image: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
 ---
 
 #**<center>Google Colab 使用易错总结</center>**  
