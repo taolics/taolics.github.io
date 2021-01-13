@@ -6,10 +6,13 @@
 
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: cnblogs
+  icon: 'fab fa-user'
+-
+  type: bili
+  icon: 'fab fa-slideshare'
 -
   type: email
   icon: 'fas fa-envelope'
