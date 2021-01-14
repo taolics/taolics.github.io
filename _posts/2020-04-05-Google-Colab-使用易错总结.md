@@ -2,15 +2,14 @@
 title: Google Colab 使用易错总结
 author: Tour
 date: 2020-04-05 10:44:00 +0800
-categories: [Blogging, Demo]
+categories: [工具]
 tags: [Google]
 math: true
 mermaid: true
-pin: true
 ---
 
-#**<center>Google Colab 使用易错总结</center>**  
-##正常步骤  
+**<center>Google Colab 使用易错总结</center>**  
+## 正常步骤  
 [以SiamFC++为例](https://blog.csdn.net/qq_30347421/article/details/104534297)  
 
 ## 注意点   
