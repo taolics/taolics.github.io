@@ -10,4 +10,4 @@ order: 4
 # MIT License
 ---
 
-* SCU 在校生（大三）
+* CS在读本科生
