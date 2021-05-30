@@ -11,3 +11,4 @@ order: 4
 ---
 
 * CS在读本科生
+* 邮箱：tourlics@foxmail.com
